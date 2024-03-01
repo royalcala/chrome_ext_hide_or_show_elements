@@ -1,5 +1,5 @@
 # chrome_ext_hide_or_show_elements
-Hide or show elements on web pages using an chrome extension.
+Hide or show elements by ID or class name on web pages using a Chrome extension.
 
 # Steps
 1. Save the project on your computer.
