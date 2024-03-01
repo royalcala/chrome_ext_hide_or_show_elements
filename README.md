@@ -2,9 +2,9 @@
 Hide or show elements on web pages using an chrome extension.
 
 # Steps
-Save the project on your computer.
-Go to chrome://extensions/.
-In the top right corner, activate Developer mode.
-Click on "Load unpacked."
-Browse and select the project folder.
-Open a new Chrome tab, click "Extensions," and then click on the extension.
+1. Save the project on your computer.
+1. Go to chrome://extensions/.
+1. In the top right corner, activate Developer mode.
+1. Click on "Load unpacked."
+1. Browse and select the project folder.
+1. Open a new Chrome tab, click "Extensions," and then click on the extension.
